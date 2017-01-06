@@ -1,0 +1,20 @@
+Importar datos en orden correctamente:[COPERATIVA SAN CARLOS]
+importamos cuentas contables:
+vamos a contabilidad/configuracion/cuentas/importar/0_account.account.csv
+para importar usuarios:
+configuracion / usuarrios/vista lista /importar /usuarios.csv
+para importar clientes y provedores:
+vamos a (sales, o contabilidad) clientes /vista lista/importar/2_clientes_proveedores(1).csv
+Para importar categorias:
+vamos a sales/configuracion/categorias y atributos/categorias/importar/categorias.csv
+para importar atributos y valores:
+repetimos la ruta sales/configuracion/categorias y atributos/atributos
+En este caso como solo tenemos que importar un atributo COLOR lo introduzco a mano
+Ahora repetimos ruta para los valores:
+sales/configuracion/categorias y atributos/valores de atributo/importar/attributes.csv
+Ahora estamos listos para importar los productos
+vamos a sales/productos/vista lista/importar/productosok.csv
+Ahora importamos las reglas de abastecimiento para ello vamos a almacen/configuracion/reglas de reabastecimiento/importar/reglas de abastecimiento.csv
+
+
+
