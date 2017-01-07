@@ -1,0 +1,4 @@
+name	parent_id/id
+TEXTIL	product.product_category_1
+HOGAR	product.product_category_1
+BAÑO	product.product_category_1
