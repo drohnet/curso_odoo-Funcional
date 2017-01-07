@@ -1,7 +1,7 @@
 Instrucciones para cargar correctamente ejercicio coperativa sancarlos:
 1-empezamos metiendo 0_usuarios.csv del sistema
 	configuracion/usuarios/usuarios/vista lista/importar/ 0_usuarios.csv
-2-metemos los nombres de cuenta para cliente/proveedor
+2-metemos los nombres de cuenta para cliente/proveedor(CONCILIACION AÑADIDA)
 	contabilidad/configuracion/cuentas/cuentas/vista lista/importar/1_account_account.csv(EnekOdoo)
 3-metemos clientes/provedores
 	ventas/clientes/vista lista/importar/2_clientes_proveedores.csv (codificacion win-1252,separador:Tabulacion)
