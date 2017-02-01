@@ -1,54 +1,51 @@
-name	customer	supplier	is_company	street	zip	vat	phone	property_account_payable	property_account_receivable
-DISEÑO TEXTIL	1	0	1	Calle Retuerto, 38	48260	ESA48107346	943 170 929		430000001
-PERITO MORENO CREATIVIDAD	1	0	1	Barrio  Okin-Zuri,  s/n	43550				430000002
-ALMACENES TEXTILES	1	0	1	C/ Passeig Estacio 43	12580	ESB12382024	964 467 140		430000003
-MODAS MARY	1	0	1	Ctra. Benicarlo calig    KM 2.200	20180	ESA08002883	943 260 101		430000004
-ACEDE,  S.A.    DISEÑOS	1	0	1	Pol. Ind. Aranguren,  6	31014		948 143 505		430000005
-MATIES ADAL	1	0	1	Avda. Marcelo Celayeta,  136	48550	ESB48959142	946 323 030		430000006
-ADEREZOS Y ARREGLOS SL	1	0	1	Pol.Ind.Santelices	1013	ESA01238484	945 253 542		430000007
-ITN DISEÑOS	1	0	1	C/  Capelamendi nº 12   Bajo	1510		945 129 266		430000008
-46 DISEÑOS	1	0	1	Parque Tecnológico de Alava.C/  Leonardo da Vinci, 13	48215	ESA48430342	946 218 147		430000009
-47 DISEÑOS	1	0	1	Pol. Ind. Arriandi,  s/n	48150	ESB95217675	944 037 977		430000010
-48 DISEÑOS	1	0	1	Pol. Ind. Sangróniz, 38 - Pab 5	20870	ESF20878278	943 744 066		430000011
-AFINACION Y MODA	1	0	1	Pol. Ind. Olaso. 					
-ANA DISEÑOS	1	0	1	C/ Del Carmen nº 74, pral.2ª	48170	ESB48853014	944 522 375		430000013
-FERNANDA DISEÑOS	1	0	1	Pol. Ind. Torrelarragoiti, Pab. 6-A1	20570	ESB20792214	943 762 963		430000014
-AGRY SA	1	0	1	c/  Aitz-Iturri,  6	20700		943 721 850 		430000015
-AGUINAGADISEÑOS	1	0	1	Pol. Ind. Argixao, 23	48903	ESB95053708	944 970 074		430000016
-AGUIRRE DISEÑOS	1	0	1	Calle Retuerto, 38	20600	ESA20022448	943 121 608		430000017
-AGUSTÍN DISEÑOS	1	0	1	Bº Azitain, 7	41500		639 812 650		430000018
-E,  S.A.	1	0	1	Duquesa de Talavera,  12	20600	ESA20044947	943 120 500		430000019
-AIRE NATURAL MODA	1	0	1	Gisastu Bide,  3	41120	ESB21353842	955 611 266		430000020
-AITEK MODA	1	0	1	Pol. Ind. Guadalquivir   C/ Formacion  Nº 10-1º	20720	ESB20601118	943 857 009		430000021
-AITOR MODA	1	0	1	Industrialdea 35	20577		943 766 420		430000022
-ALBA MODA	1	0	1	Lizarraga Hiribidea, 12	48150	ESB48970479	944 711 600		430000023
-ALBICEIN,  MODA	1	0	1	Ctra. Sangroniz,  34	20870	ESA20928834	943 748 960		430000024
-ALCAPA MODA	1	0	1	Pol. Ind. Albitxuri,   nº 20	48002	ESB48150783	944 441 146		430000025
-ALCORTAMODA	1	0	1	Carretera Larrasquitu 35, 2  Planta	20870	ESA20585865	943 741 350		430000026
-ALDAMODA	1	0	1	Pol. Ind. San Lorenzo PO Box 1	20249	ESB75139378	943161669		430000027
-ALDMODA	1	0	1	C/ Beko Kalea S/N	48330	ESA48147144	946  313 126		430000028
-ALEMODA	1	0	1	Bº Bolunburu,  s/n	20500	ESF20028544	943 712 405		430000029
-ALEJANDRO MODA	1	0	1	Aptdo. 81, Loramendi 11	20305	ES15949842D	943 613 442		430000030
-ALFA DECO, S.A.	1	0	1	C/  Lizarra,  15   Puiana	20690	ESA48173876	943 789 117		430000031
-ALFMODA	1	0	1	Pol. Ind. Pagatza,    s/n	20600	ESV20851648	943 820 300		430000032
-ALFONMODA	1	0	1	Avda. Otaola,  4	8918				430000033
-ALPE   MECANIZADOS  S.L	1	0	1	c/  Alfonso XII,   653   -  1º N	20870	ESB20696084	943 743 628		430000034
-ALTMODA	1	0	1	C/ Olasope 6 Pab .66-2	48140	ESB95198008	946 311 711		430000035
-ALZA, S.L. MECANIZADOS	1	0	1	IGORREKO INDUSTRIALDEA					430000036
-AME	1	0	1	c/ Euskalerria -  Pol. Ind. Solozabal  Pab. 8	1013		945 129 266		430000037
-lorea	1	0	1	C/  Portal de Gamarra,  40	20870				430000038
-sr. Luis Oronoz	1	0	1	Pol. Ind. Olaso.   Olasope Kalea 16	20305				430000039
-maria Gomez	1	0	1	Pol. Ind. Arretxe-Ugalde,  5	48930				430000040
-Abacus Nova, S.L.	1	0	1	Avda libertad barakaldo	28010	ESB84849579			430000041
-Abalea Comunicación, S.L.	1	0	1	C/ Cardenal Cisneros nº 49	28043	ESB84400829			430000042
-AB Azucarera Iberia, S.L.	1	0	1	Avda. Machupichu nº 35, 1º 33	28050	ESB78373511			430000043
-Abdul Razzaq Bin Abdul Jalil Abdulg	1	0	1	Avda. Manoteras nº 46	28046	ESM2839497D			430000044
-Abenojar Real Estate, S.L.	1	0	1	Paseo de la Castellana nº 15, 5ª pl	28002	ESB83075580			430000045
-Abraham Dib	1	0	1	C/ Santa Hortensia 15, 7º Ático 14 	28009				430000046
-Accurer, S.L.	1	0	1	C/ San Alcalá nº 131, 1º Dcha.	28830	ESB84744689			430000047
-Acedo Inversiones, S.L.	1	0	1	C/ Mar Tirreno nº 4, nave 9	33005	ESB74039991			430000048
-posicion50	1	0	1	Avda. de Galicia nº 46, 6º B					430000049
-100M diseño	0	1	1	Glorieta Carlos V nº 9	28012	ESB85774438		410000003	
-2.008 Luna distribuidor	0	1	1	Ronda de Sobradiel nº 61	28043	ESB84274877		410000004	
-248 Proyectos y costuras	0	1	1	Ctra.de Fuencarral a Alcobendas 14D	28034	ESB85984375		410000005	
-360 maquinaria textil	0	1	1	C/ Abdón Terradas nº 3, local	28015	ESB86442647		410000006	
+active,bank_ids/acc_number,bank_ids/state,bank_ids/acc_country_id,bank_ids/mandate_ids/type,bank_ids/mandate_ids/format,bank_ids/mandate_ids/recurrent_sequence_type,bank_ids/mandate_ids/scheme,name,customer,supplier,is_company,street,zip,vat,phone,property_account_payable,property_account_receivable
+1,ES81 0049 0621 18 2210457308,iban,España,recurrent,sepa,recurring,B2B,46 DISEÑOS,1,0,1,"Pol. Ind. Arriandi,  s/n",48215,ESA48430342,946 218 147,430000009,
+1,ES70 0049 2457 77 1810085040,iban,España,recurrent,sepa,recurring,B2B,47 DISEÑOS,1,0,1,"Pol. Ind. Sangróniz, 38 - Pab 5",48150,ESB95217675,944 037 977,430000010,
+1,ES94 0049 4897 43 2416037928,iban,España,recurrent,sepa,recurring,B2B,48 DISEÑOS,1,0,1,"Pol. Ind. Olaso. 
+C/ Olasope,  14",20870,ESF20878278,943 744 066,430000011,
+1,ES64 0182 7343 51 0101500237,iban,España,recurrent,sepa,recurring,B2B,"AB Azucarera Iberia, S.L.",1,1,0,Avda. Manoteras nº 46,28050,ESB78373511,,430000043,430000043
+1,ES78 0182 2410 42 0000054604,iban,España,recurrent,sepa,recurring,B2B,"Abacus Nova, S.L.",1,1,0,C/ Cardenal Cisneros nº 49,28010,ESB84849579,,430000041,
+1,ES09 0182 5557 41 0000039486,iban,España,recurrent,sepa,recurring,B2B,"Abalea Comunicación, S.L.",1,1,0,"Avda. Machupichu nº 35, 1º 33",28043,ESB84400829,,430000042,
+1,ES18 0182 7343 52 0201507628,iban,España,recurrent,sepa,recurring,B2B,Abdul Razzaq Bin Abdul Jalil Abdulg,1,0,1,"Paseo de la Castellana nº 15, 5ª pl",28046,ESM2839497D,,430000044,
+1,ES79 0182 7693 27 0013363508,iban,España,recurrent,sepa,recurring,B2B,"Abenojar Real Estate, S.L.",1,1,0,"C/ Santa Hortensia 15, 7º Ático 14 ",28002,ESB83075580,,430000045,430000045
+1,ES42 2066 0000 13 0200037602,iban,España,recurrent,sepa,recurring,B2B,Abraham Dib,1,0,1,"C/ San Alcalá nº 131, 1º Dcha.",28009,,,430000046,
+1,ES38 2066 0093 09 0200004508,iban,España,recurrent,sepa,recurring,B2B,"Accurer, S.L.",1,1,0,"C/ Mar Tirreno nº 4, nave 9",28830,ESB84744689,,430000047,430000047
+1,ES57 0042 0051 59 0110003403,iban,España,recurrent,sepa,recurring,B2B,"ACEDE,  S.A.    DISEÑOS",1,1,0,"Avda. Marcelo Celayeta,  136",31014,,948 143 505,430000005,430000005
+1,ES86 2073 0028 51 0110456815,iban,España,recurrent,sepa,recurring,B2B,"Acedo Inversiones, S.L.",1,1,0,"Avda. de Galicia nº 46, 6º B",33005,ESB74039991,,430000048,430000048
+1,ES68 0042 0076 28 0100081053,iban,España,recurrent,sepa,recurring,B2B,ADEREZOS Y ARREGLOS SL,1,0,1,C/  Capelamendi nº 12   Bajo,01013,ESA01238484,945 253 542,430000007,
+1,ES33 0049 4897 46 2110647571,iban,España,recurrent,sepa,recurring,B2B,AFINACION Y MODA,1,0,1,"C/ Del Carmen nº 74, pral.2ª",08011,ESB62028303,935 684 100,430000012,
+1,ES39 0049 6087 17 2316091450,iban,España,recurrent,sepa,recurring,B2B,AGRY SA,1,0,1,"Pol. Ind. Argixao, 23",20700,,943 721 850 ,430000015,
+1,ES16 0049 6743 19 2116028379,iban,España,recurrent,sepa,recurring,B2B,AGUINAGADISEÑOS,1,0,1,"Calle Retuerto, 38",48903,ESB95053708,944 970 074,430000016,
+1,ES62 0075 0266 13 0500027346,iban,España,recurrent,sepa,recurring,B2B,AGUIRRE DISEÑOS,1,0,1,"Bº Azitain, 7",20600,ESA20022448,943 121 608,430000017,
+1,ES33 0075 0767 40 0500018761,iban,España,recurrent,sepa,recurring,B2B,AGUSTÍN DISEÑOS,1,0,1,"Duquesa de Talavera,  12",41500,,639 812 650,430000018,
+1,ES06 0075 4640 18 0600060267,iban,España,recurrent,sepa,recurring,B2B,AIRE NATURAL MODA,1,0,1,Pol. Ind. Guadalquivir   C/ Formacion  Nº 10-1º,41120,ESB21353842,955 611 266,430000020,
+1,ES90 0081 0066 61 0003831491,iban,España,recurrent,sepa,recurring,B2B,AITEK MODA,1,0,1,Industrialdea 35,20720,ESB20601118,943 857 009,430000021,
+1,ES46 0081 0118 27 0001132615,iban,España,recurrent,sepa,recurring,B2B,AITOR MODA,1,0,1,"Lizarraga Hiribidea, 12",20577,,943 766 420,430000022,
+1,ES84 0081 0151 17 0001213027,iban,España,recurrent,sepa,recurring,B2B,ALBA MODA,1,0,1,"Ctra. Sangroniz,  34",48150,ESB48970479,944 711 600,430000023,
+1,ES28 0081 0179 08 0001089013,iban,España,recurrent,sepa,recurring,B2B,"ALBICEIN,  MODA",1,1,0,"Pol. Ind. Albitxuri,   nº 20",20870,ESA20928834,943 748 960,430000024,430000024
+1,ES07 0081 0388 01 0003585667,iban,España,recurrent,sepa,recurring,B2B,ALCAPA MODA,1,0,1,"Carretera Larrasquitu 35, 2  Planta",48002,ESB48150783,944 441 146,430000025,
+1,ES48 0081 5182 55 0001052607,iban,España,recurrent,sepa,recurring,B2B,ALCORTAMODA,1,0,1,Pol. Ind. San Lorenzo PO Box 1,20870,ESA20585865,943 741 350,430000026,
+1,ES66 0095 4629 91 0600113120,iban,España,recurrent,sepa,recurring,B2B,ALDAMODA,1,0,1,C/ Beko Kalea S/N,20249,ESB75139378,943161669,430000027,
+1,ES95 0095 4634 38 0600241142,iban,España,recurrent,sepa,recurring,B2B,ALDMODA,1,0,1,"Bº Bolunburu,  s/n",48330,ESA48147144,946  313 126,430000028,
+1,ES12 0097 8557 76 0600045761,iban,España,recurrent,sepa,recurring,B2B,ALEJANDRO MODA,1,0,1,"C/  Lizarra,  15   Puiana",20305,ES15949842D,943 613 442,430000030,
+1,ES70 0095 4638 10 0600157986,iban,España,recurrent,sepa,recurring,B2B,ALEMODA,1,0,1,"Aptdo. 81, Loramendi 11",20500,ESF20028544,943 712 405,430000029,
+1,ES87 0128 0300 25 0100046575,iban,España,recurrent,sepa,recurring,B2B,"ALFA DECO, S.A.",1,1,0,"Pol. Ind. Pagatza,    s/n",20690,ESA48173876,943 789 117,430000031,430000031
+1,ES35 0128 0352 81 0100006083,iban,España,recurrent,sepa,recurring,B2B,ALFMODA,1,0,1,"Avda. Otaola,  4",20600,ESV20851648,943 820 300,430000032,
+1,ES56 0182 0081 14 0000002296,iban,España,recurrent,sepa,recurring,B2B,ALFONMODA,1,0,1,"c/  Alfonso XII,   653   -  1º N",08918,,,430000033,
+1,ES61 0030 3482 44 0000103271,iban,España,recurrent,sepa,recurring,B2B,ALMACENES TEXTILES,1,0,1,Ctra. Benicarlo calig    KM 2.200,12580,ESB12382024,964 467 140,430000003,
+1,ES11 0182 0312 65 0011503442,iban,España,recurrent,sepa,recurring,B2B,ALPE   MECANIZADOS  S.L,1,0,1,C/ Olasope 6 Pab .66-2,20870,ESB20696084,943 743 628,430000034,
+1,ES55 0182 0324 21 0201511104,iban,España,recurrent,sepa,recurring,B2B,ALTMODA,1,0,1,"IGORREKO INDUSTRIALDEA
+c/  Industrialdea,  Pabellón  F-6",48140,ESB95198008,946 311 711,430000035,
+1,ES26 0182 1268 87 0015777002,iban,España,recurrent,sepa,recurring,B2B,"ALZA, S.L. MECANIZADOS",1,1,0,c/ Euskalerria -  Pol. Ind. Solozabal  Pab. 8,48250,ESB48969059,946 236 067,430000036,
+1,ES62 0182 1296 03 0000016085,iban,España,recurrent,sepa,recurring,B2B,AME,1,0,1,"C/  Portal de Gamarra,  40",01013,,945 129 266,430000037,
+1,ES72 0049 5016 46 2116001721,iban,España,recurrent,sepa,recurring,B2B,ANA DISEÑOS,1,0,1,"Pol. Ind. Torrelarragoiti, Pab. 6-A1",48170,ESB48853014,944 522 375,430000013,
+1,ES03 0030 3103 18 0000036172,iban,España,recurrent,sepa,recurring,B2B,DISEÑO TEXTIL,1,0,1,"Barrio  Okin-Zuri,  s/n",48260,ESA48107346,943 170 929,430000001,
+1,ES27 0075 1166 12 0600026788,iban,España,recurrent,sepa,recurring,B2B,"E,  S.A.",1,1,0,"Gisastu Bide,  3",20600,ESA20044947,943 120 500,430000019,430000019
+1,ES92 0049 6060 53 2316052931,iban,España,recurrent,sepa,recurring,B2B,FERNANDA DISEÑOS,1,0,1,"c/  Aitz-Iturri,  6",20570,ESB20792214,943 762 963,430000014,
+1,ES30 0042 0105 06 0100005802,iban,España,recurrent,sepa,recurring,B2B,ITN DISEÑOS,1,0,1,"Parque Tecnológico de Alava.C/  Leonardo da Vinci, 13",01510,,945 129 266,430000008,
+1,ES81 0182 1296 03 0201533534,iban,España,recurrent,sepa,recurring,B2B,lorea,1,0,1,Pol. Ind. Olaso.   Olasope Kalea 16,20870,,,430000038,
+1,ES93 0182 2347 45 0201511884,iban,España,recurrent,sepa,recurring,B2B,maria Gomez,1,0,1,Avda libertad barakaldo,48930,,,430000040,
+1,ES58 0042 0073 95 0100284904,iban,España,recurrent,sepa,recurring,B2B,MATIES ADAL,1,0,1,Pol.Ind.Santelices,48550,ESB48959142,946 323 030,430000006,
+1,ES45 0042 0007 62 0110025751,iban,España,recurrent,sepa,recurring,B2B,MODAS MARY,1,0,1,"Pol. Ind. Aranguren,  6",20180,ESA08002883,943 260 101,430000004,
+1,ES39 2073 0083 61 0110308630,iban,España,recurrent,sepa,recurring,B2B,PERITO MORENO CREATIVIDAD,1,0,1,C/ Passeig Estacio 43,20305,,,430000039,
+1,ES18 0182 2347 40 0201509405,iban,España,recurrent,sepa,recurring,B2B,sr. Luis Oronoz,1,0,1,"Pol. Ind. Arretxe-Ugalde,  5",,,,,
